@@ -1,0 +1,4 @@
+{
+  "presets": ["react","es2017","stage-3","env"],
+  "plugins": ["transform-runtime","transform-object-rest-spread"]
+}

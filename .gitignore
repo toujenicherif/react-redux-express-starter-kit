@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+npm-debug.log
+public/.DS_Store
+.DS_Store
+package-lock.json
+public/lib/
+app.min.js
+/public/js/app.js
+/public/css/main.bundle.css
